@@ -42,11 +42,13 @@ Detailed Table
 
 Product-wise breakdown with exact sales figures
 
-📷 Dashboard Preview
-🔹 Dashboard - Part 1
-<img src= "Screenshot 2025-07-12 182634.png" alt="Finance Dashboard Part 1" width="800"/>
-🔹 Dashboard - Part 2
-<img src="C:\Users\KANAKA MAHALAKSHMI\Pictures\Screenshots\Screenshot 2025-07-12 182703.png" alt="Finance Dashboard Part 2" width="800"/>
+## 🖼️ Dashboard Previews
+
+Visual insights captured from the Power BI report:
+
+![Dashboard Part 1](https://github.com/Mahalakshmi-Telidevara/Finance-Dashboard/blob/main/Screenshots/Screenshot%202025-07-12%20182634.png?raw=true)  
+![Dashboard Part 2](https://github.com/Mahalakshmi-Telidevara/Finance-Dashboard/blob/main/Screenshots/Screenshot%202025-07-12%20182703.png?raw=true)
+
 🛠 Tools & Technologies
 Microsoft Power BI Desktop
 
