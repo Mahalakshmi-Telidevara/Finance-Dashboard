@@ -44,7 +44,7 @@ Product-wise breakdown with exact sales figures
 
 📷 Dashboard Preview
 🔹 Dashboard - Part 1
-<img src= "C:\Users\KANAKA MAHALAKSHMI\Pictures\Screenshots\Screenshot 2025-07-12 182634.png" alt="Finance Dashboard Part 1" width="800"/>
+<img src= "Screenshot 2025-07-12 182634.png" alt="Finance Dashboard Part 1" width="800"/>
 🔹 Dashboard - Part 2
 <img src="C:\Users\KANAKA MAHALAKSHMI\Pictures\Screenshots\Screenshot 2025-07-12 182703.png" alt="Finance Dashboard Part 2" width="800"/>
 🛠 Tools & Technologies
