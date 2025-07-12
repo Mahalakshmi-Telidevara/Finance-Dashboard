@@ -64,7 +64,5 @@ Load the Financial Sample.xlsx dataset.
 Import visuals and adjust filters as needed.
 
 🤝 Feel Free to Connect
-If you found this helpful or want to collaborate on data projects:
-
 📧 Email: [srikanakamahalakshmitelidevara@gmail.com]
 🔗 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/telidevara/)
